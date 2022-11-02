@@ -1,5 +1,5 @@
 function isPalindrome(word) {
-  // Write your algorithm here
+  return word ('mom');
 }
 
 /* 
